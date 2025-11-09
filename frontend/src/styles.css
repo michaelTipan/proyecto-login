@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #bdbdbd;
+    height: 100%;
+}
+
+.body {
+    max-width: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+.logo {
+    height: 300px;
+    margin-bottom: 10px;
+}
